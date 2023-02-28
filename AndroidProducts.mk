@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_venus.mk
+    $(LOCAL_DIR)/spark_venus.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_venus-user \
-    lineage_venus-userdebug \
-    lineage_venus-eng
+    spark_venus-user \
+    spark_venus-userdebug \
+    spark_venus-eng
