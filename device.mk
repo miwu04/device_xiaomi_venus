@@ -39,4 +39,4 @@ PRODUCT_PACKAGES += \
     vendor.lineage.touch@1.0-service.xiaomi
 
 # Call the proprietary setup
-$(call inherit-product, vendor/xiaomi/mars/mars-vendor.mk)
+$(call inherit-product, vendor/xiaomi/venus/venus-vendor.mk)
